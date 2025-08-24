@@ -1,0 +1,20 @@
+import turtle
+
+turtle.bgcolor('yellow')
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(120)
+turtle.forward(100)
+turtle.penup()
+turtle.forward(50)
+turtle.pendown()
+turtle.left(90)
+turtle.forward(150)
+turtle.setheading(90)
+turtle.circle(50)
+turtle.dot()
+turtle.pensize(5)
+turtle.pencolor('red')
+turtle.forward(100)
+
